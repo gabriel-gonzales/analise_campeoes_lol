@@ -6,7 +6,6 @@ Este repositório contém um notebook que realiza uma análise detalhada dos cam
 
 - Analisar a distribuição de campeões por classe e função.
 - Explorar a relação entre custo e dificuldade dos campeões.
-- Visualizar a evolução dos atributos ao longo do tempo com base na data de lançamento dos campeões.
 - Fornecer insights sobre os campeões mais e menos acessíveis em termos de custo e dificuldade.
 
 ## Tecnologias Utilizadas
