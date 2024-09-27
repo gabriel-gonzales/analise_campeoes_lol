@@ -21,10 +21,10 @@ Este repositório contém um notebook que realiza uma análise detalhada dos cam
 /Análise_Campeões_LoL
 │
 ├── data/                     # Diretório contendo os dados utilizados na análise
-│   └── campeoes.csv          # Dataset com informações dos campeões
+│   └── League of legend Champions 2024.xlsx  # Dataset com informações dos campeões
 │
 ├── notebooks/                # Diretório contendo o notebook de análise
-│   └── analise_campeoes.ipynb # Notebook principal da análise
+│   └── analise_campeoes_lol.ipynb # Notebook principal da análise
 │
 └── README.md                 # Este arquivo
 ```
