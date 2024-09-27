@@ -15,37 +15,16 @@ Este repositório contém um notebook que realiza uma análise detalhada dos cam
 - **Matplotlib** e **Seaborn**: Bibliotecas para visualização de dados.
 - **Jupyter Notebook**: Ambiente interativo utilizado para o desenvolvimento do projeto.
 
-## Estrutura do Repositório
+## Link para o Notebook
 
-```
-/Análise_Campeões_LoL
-│
-├── data/                     # Diretório contendo os dados utilizados na análise
-│   └── League of legend Champions 2024.xlsx  # Dataset com informações dos campeões
-│
-├── notebooks/                # Diretório contendo o notebook de análise
-│   └── analise_campeoes_lol.ipynb # Notebook principal da análise
-│
-└── README.md                 # Este arquivo
-```
+Você pode acessar o notebook completo através do seguinte link:
 
-## Como Executar o Projeto
+[Análise de Campeões LOL](https://www.kaggle.com/code/gabkgonzales/analise-campeoes-lol-ipynb)
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu_usuario/Análise_Campeões_LoL.git
-   ```
+## Como Executar
 
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd Análise_Campeões_LoL
-   ```
-
-3. Abra o notebook em um ambiente Jupyter:
-   ```bash
-   jupyter notebook notebooks/analise_campeoes.ipynb
-   ```
-
-4. Execute as células do notebook para visualizar as análises.
+   - Acesse o link do notebook.
+   - Faça o download dos dados, se necessário.
+   - Execute o notebook para visualizar as análises e resultados.
 
 
